@@ -1,6 +1,6 @@
 -- Databricks notebook source
 /* 
-1. Qual pedido com maior valor de frete? E o menor?
+1. Qual pedido com maior valor de frete?  E o menor?
 2. Qual vendedor tem mais pedidos?
 3. Qual vendedor tem mais itens vendidos? E o com menos?
 4. Qual dia tivemos mais pedidos?

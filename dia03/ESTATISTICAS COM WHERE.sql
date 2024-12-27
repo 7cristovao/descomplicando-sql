@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Combinando comandos com WHERE */
+/* Combinando comandos com WHERE  */
 /* Primeiro filtra a tabela */
 /* Conta a quantidade de vendedores do RJ */
 SELECT count(idVendedor),

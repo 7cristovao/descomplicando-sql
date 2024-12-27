@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Chegar à média dos valores de uma coluna */
+/* Chegar à média dos valores de uma coluna  */
 
 SELECT avg(vlPreco)
 FROM silver.olist.item_pedido

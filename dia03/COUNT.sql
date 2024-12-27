@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Fazer contagem na query */
+/* Fazer contagem na query  */
 /* Contagem de linhas da tabela */
 SELECT 
     count(*),

@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Filtro para aplicar depois de agregar as informações para remover linhas que não temos interesse */
+/* Filtro para aplicar depois de agregar as informações para remover linhas que não temos interesse  */
 SELECT descCategoria,
        count(DISTINCT idProduto) AS qteProduto,
        avg(vlPesoGramas) AS avgPeso

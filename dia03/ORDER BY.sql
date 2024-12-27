@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Ordenar do item mais barato para o mais caro */ 
+/* Ordenar do item mais barato para o mais caro  */ 
 SELECT *
 FROM silver.olist.item_pedido
 ORDER BY vlPreco

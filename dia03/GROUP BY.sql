@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Agrupar, consolidar tabela por informação */
+/* Agrupar, consolidar tabela por informação  */
 SELECT descUF,
        count(DISTINCT idVendedor)
 FROM silver.olist.vendedor

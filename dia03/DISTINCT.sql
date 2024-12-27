@@ -1,5 +1,5 @@
 -- Databricks notebook source
-/* Consulta linhas distintas e ordena alfabeticamente */
+/* Consulta linhas distintas e ordena alfabeticamente  */
 /* Remove duplicidades */
 SELECT DISTINCT descUF
 FROM silver.olist.vendedor
